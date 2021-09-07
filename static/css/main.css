@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  background: #000000;
+}
+
+#content {
+  @apply px-4 lg:px-8 2xl:p-0;
+}
+.container {
+  @apply w-full max-w-screen-2xl h-full;
+}
+
+h1 {
+  @apply text-5xl mb-12;
+}
+
+p {
+  @apply mb-8 leading-[45px];
+}
+p a {
+  border-bottom: 1px solid white;
+}
+
+a.active {
+  border-bottom: 1px solid white;
+}
+
+/* Navigation */
+.navbar {
+  background: black;
+  font-size: clamp(18px, 2vw, 20px);
+}
+.nav-logo {
+  min-width: 200px;
+}
+
+/* Hero */
+.fotorama__stage {
+  @apply border-white border-4;
+}
+
+/* Clients */
+#clients p {
+  @apply text-lg;
+}
+
+#clients .sorted-list {
+  @apply gap-x-10 lg:gap-x-40;
+}
+@screen md {
+  .sorted-list {
+    column-count: 2;
+  }
+}
+@screen xl {
+  .sorted-list {
+    column-count: 3;
+  }
+}
+.letter-header {
+  font-size: x-large;
+  border-bottom: solid 1px;
+  margin-bottom: 2rem;
+  padding: 0 0 1rem;
+}
+
+.sorted-list > div {
+  @apply mb-12 md:mb-20;
+  display: inline-block;
+  width: 100%;
+}
+
+/* Gear */
+
+.gear-list {
+  flex: 1 1 100%;
+}
+
+#gear .fotorama {
+  display: none;
+}
+#gear #masonry {
+  display: block;
+  flex: 1 1 50%;
+}
+#gear #masonry .h-full {
+  height: auto;
+}
+#gear #masonry a {
+  border: solid 4px white;
+}
+
+.collapse-arrow .collapse-title:after {
+  top: 2.3rem;
+  content: "";
+  transform-origin: 75% 75%;
+  transform: rotate(45deg);
+  box-shadow: 2px 2px;
+}
+
+.collapse-arrow .collapse-title:after,
+.collapse-plus .collapse-title:after {
+  display: block;
+  height: 0.5rem;
+  position: absolute;
+  width: 0.5rem;
+  transition-property: all;
+  transition-duration: 0.15s;
+  transition-duration: 0.3s;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  right: 1.4rem;
+}
+
+@screen md {
+  .gear-list {
+    flex-basis: 50%;
+  }
+}

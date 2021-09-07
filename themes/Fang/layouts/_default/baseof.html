@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+{{- partial "head.html" . -}}
+
+<body class="font-sans text-white">
+    {{- partial "header.html" . -}}
+    <div id="content" class="mt-24 md:mt-0 flex flex-col items-center ">
+        {{- block "main" . }}{{- end }}
+    </div>
+    {{- partial "footer.html" . -}}
+    <script>
+        $('[data-fancybox="gallery"]').fancybox({
+            hash: true
+        })
+    </script>
+</body>
+
+</html>
