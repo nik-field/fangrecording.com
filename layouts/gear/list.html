@@ -1,0 +1,23 @@
+{{ define "main"}}
+<div id="gear" class="container flex flex-wrap font-light tracking-widest p-2 lg:p-0 mt-4 ">
+    <div class="gear-list md:pr-12">
+        {{ range .Pages  }}
+        <div class="collapse uppercase collapse-arrow" id='{{ replace (lower .Title) " " "-" }}' class="gear-group">
+            <input type="checkbox" class="cursor-pointer"></input>
+            <div class="collapse-title text-xl py-2 pt-8  border-b-2 border-white">{{.Title}}</div>
+            <div class="collapse-content mt-4 leading-10 font-extralight">{{ .Content }}</div>
+        </div>
+        {{ end }}
+    </div>
+    {{ with $.Site.GetPage "section" "gallery" }}
+    {{ .Content }}
+    {{end}}
+</div>
+<script>
+    const macyInstance=Macy({
+        container: document.querySelector('#masonry'),
+        columns: 2,
+        margin: 16
+    });
+</script>
+{{ end }}
