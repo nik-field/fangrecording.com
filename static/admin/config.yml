@@ -1,0 +1,32 @@
+backend:
+  name: git-gateway
+  branch: main
+media_folder: "/static/images/"
+public_folder: "/images/"
+collections:
+  - name: "gallery"
+    label: "Gallery"
+    folder: "/content/gallery/"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Content", name: "body", widget: "markdown" }
+  - name: "gear"
+    label: "Gear"
+    folder: "/content/gear/"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Content", name: "body", widget: "markdown" }
+  - name: "about"
+    label: "About"
+    folder: "/content/"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Content", name: "body", widget: "markdown" }
+  - name: "clients"
+    label: "Clients"
+    folder: "/content/"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Content", name: "body", widget: "markdown" }
