@@ -21,6 +21,15 @@ body {
 h1 {
   @apply text-5xl mb-12;
 }
+h2 {
+  @apply text-3xl mb-4;
+}
+h3 {
+  @apply text-2xl mb-4;
+}
+h4 {
+  @apply text-xl mb-4;
+}
 
 p {
   @apply mb-8 leading-[45px];
@@ -72,8 +81,12 @@ a.active {
   padding: 0 0 1rem;
 }
 
+.sorted-list {
+  @apply mt-12;
+}
+
 .sorted-list > div {
-  @apply mb-12 md:mb-20;
+  @apply mb-12 md:mb-6;
   display: inline-block;
   width: 100%;
 }
