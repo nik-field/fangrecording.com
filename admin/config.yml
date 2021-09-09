@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: test-repo
   branch: main
 media_folder: "/content/gallery/img"
 public_folder: "/gallery/img"
@@ -7,14 +7,6 @@ logo_url: https://fangrecording.com/images/fang-recording_white.svg
 dispaly_url: https://fangrecording.com
 site_url: https://fangrecording.com
 collections:
-  - name: "gallery"
-    label: "Gallery"
-    folder: "/content/gallery"
-    media_folder: "/content/gallery/img"
-    public_folder: "/gallery/img"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Content", name: "body", widget: "markdown" }
   - label: "About"
     name: "about"
     folder: "/content/about"
