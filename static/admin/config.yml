@@ -21,7 +21,7 @@ collections:
       - { label: "Content", name: "body", widget: "markdown" }
   - label: "Clients"
     name: "clients"
-    file: "/content/clients"
+    folder: "/content/clients"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Content", name: "body", widget: "markdown" }
