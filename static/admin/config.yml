@@ -7,7 +7,7 @@ logo_url: https://fangrecording.com/images/fang-recording_white.svg
 dispaly_url: https://fangrecording.com
 site_url: https://fangrecording.com
 collections:
-    - label: "Gear"
+  - label: "Gear"
     name: "gear"
     folder: "/content/gear"
     create: true
@@ -29,4 +29,3 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Content", name: "body", widget: "markdown" }
-
