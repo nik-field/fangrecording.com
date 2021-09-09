@@ -4,13 +4,11 @@ draft: true
 type: clients
 menu: main
 ---
-# 2013 – Present
+# Clients
+#### Scotland Yard: *2008 – 2012*
+#### New Scotland Yard: *2013 – 2021*
+#### Fang Recording: *2021 – ????*
 
-Fang Recording 2021 – ?
-
-New Scotland Yard 2013 – 2021
-
-Scotland Yard 2008 – 2012
 
 {{< sort >}}
 
