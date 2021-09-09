@@ -13,26 +13,22 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Content", name: "body", widget: "markdown" }
-  - label: "Pages"
-    name: "pages"
-    files:
-      - label: "About"
-        name: "about"
-        file: "/content/about.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Content", name: "body", widget: "markdown" }
-      - label: "Clients"
-        name: "clients"
-        file: "/content/clients.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Content", name: "body", widget: "markdown" }
-      - label: "Gear"
-        name: "gear"
-        file: "content/gear/index.md"
-        folder: "/content/gear"
-        create: true
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Content", name: "body", widget: "markdown" }
+    - label: "About"
+      name: "about"
+      folder: "/content/about.md"
+      fields:
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Content", name: "body", widget: "markdown" }
+    - label: "Clients"
+      name: "clients"
+      file: "/content/clients.md"
+      fields:
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Content", name: "body", widget: "markdown" }
+    - label: "Gear"
+      name: "gear"
+      folder: "/content/gear"
+      create: true
+      fields:
+        - { label: "Title", name: "title", widget: "string" }
+        - { label: "Content", name: "body", widget: "markdown" }
