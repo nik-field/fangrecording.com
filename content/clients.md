@@ -1,22 +1,28 @@
 ---
 title: Clients
 draft: true
-type: "clients"
-menu: "main"
+type: clients
+menu: main
 ---
-
 # 2013 – Present
 
+Fang Recording 2021 – ?
 
+New Scotland Yard 2013 – 2021
+
+Scotland Yard 2008 – 2012
 
 {{< sort >}}
+
 460 Kustom
 
-Dave Gunning & David Francey
+Ana Egge
 
 Anna Plaskett
 
 Anne Janelle
+
+Ben Gunning
 
 Bend The River
 
@@ -32,6 +38,8 @@ Brothers
 
 Cancer Bats
 
+Carleton Stone & Molly Thomason
+
 Chaotically Zen
 
 Christina Martin
@@ -40,7 +48,9 @@ Co-Pilot
 
 Colleen Brown
 
-Dave Marsh
+Dave Gunning & David Francey
+
+Dave MarshDave Marsh
 
 David Myles
 
@@ -68,11 +78,15 @@ James Hill
 
 Jeremy Finney
 
+Jeremy Fisher
+
 Jesse Thomas
 
 Jimmy Rankin
 
 Joel Plaskett
+
+Joel Plaskett & The Emergency
 
 Jon Epworth
 
@@ -104,6 +118,8 @@ Mardeen
 
 Matt Steele & The Corvette Sunset
 
+Matthew Grimson
+
 Meredith Shaw
 
 Mike Kerr
@@ -112,9 +128,13 @@ Mo Kenney
 
 Moira And Claire
 
+Myles Deck & The Fuzz
+
 Natalie Lynn
 
 Old Man Luedecke
+
+Peter Elkas
 
 Polaris Music Prize
 
@@ -146,13 +166,15 @@ Skydiggers
 
 Stand Back
 
-TJ Webb
+Steve Poltz
 
 The Bloody Hell
 
 The Brood
 
 The Folk and Country Line
+
+The Heavy Meadows
 
 The Maudes
 
@@ -163,6 +185,12 @@ The Rebel Prospects
 The Scoop Outs
 
 The Will Be Gones
+
+Tim Chaisson & Morningfold
+
+TJ Webb
+
+Two Hours Traffic
 
 Tyler Cameron
 
@@ -182,41 +210,8 @@ Worlds Away
 
 Wrong Planet Band
 
+Yellow Jacket Avenger
+
 Zoe Leger
 
-Carleton Stone & Molly Thomason
-
-Ana Egge
-
-Ben Gunning
-
-Dave Marsh
-
-David Myles
-
-Jeremy Fisher
-
-Joel Plaskett & The Emergency
-
-Matthew Grimson
-
-Mo Kenney
-
-Myles Deck & The Fuzz
-
-Peter Elkas
-
-Shotgun Jimmie
-
-Steve Poltz
-
-The Heavy Meadows
-
-Tim Chaisson & Morningfold
-
-Two Hours Traffic
-
-Tyler Messick
-
-Yellow Jacket Avenger
 {{</ sort >}}
