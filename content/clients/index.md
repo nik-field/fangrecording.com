@@ -14,7 +14,7 @@ menu: main
 
 {{< sort >}}
 
-460 Kustom | Some blurb about 460 Kustom and the work that we did (2015)
+460 Kustom
 
 Ana Egge
 
