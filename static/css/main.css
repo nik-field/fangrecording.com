@@ -58,7 +58,7 @@ a.active {
 
 /* Clients */
 #clients p {
-  @apply text-lg mb-4;
+  @apply text-lg mb-2;
 }
 
 #clients .sorted-list {
