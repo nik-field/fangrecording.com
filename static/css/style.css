@@ -1285,6 +1285,7 @@ a.active {
 /* Clients */
 
 #clients p {
+  margin-bottom: 1rem;
   font-size: 1.125rem;
   line-height: 1.75rem;
 }
