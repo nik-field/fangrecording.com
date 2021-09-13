@@ -28,7 +28,7 @@ Atlantic Live Stream
 
 Ben Gunning
 
-Bend The River
+[Bend The River](https://bendtheriver.bandcamp.com/album/through-the-long-night)
 
 Bill Plaskett
 
@@ -40,13 +40,13 @@ Bill Stevenson
 
 Blue Spirits
 
-Boy Golden 
+[Boy Golden ](https://yaboygolden.bandcamp.com/album/church-of-better-daze)
 
 Breagh MacKinnon
 
 Brothers
 
-Cancer Bats
+[Cancer Bats](https://youtu.be/8GhiSFDzRb4)
 
 Carleton Stone & Molly Thomason
 
