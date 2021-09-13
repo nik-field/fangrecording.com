@@ -30,13 +30,13 @@ Ben Gunning
 
 [Bend The River](https://bendtheriver.bandcamp.com/album/through-the-long-night)
 
-Bill Plaskett
+[Bill Plaskett](https://www.youtube.com/watch?v=a9393ks22Q0)
 
 Big Tilda
 
 Big Turnips
 
-Bill Stevenson
+[Bill Stevenson](https://vimeo.com/578851609/5499a6b107)
 
 Blue Spirits
 
@@ -58,11 +58,11 @@ Christina Martin
 
 Co-Pilot
 
-Colleen Brown
+[Colleen Brown](https://www.youtube.com/watch?v=8L7Y1LWVD0A)
 
 [Dave Gunning & David Francey](https://www.youtube.com/watch?v=X4l0-EOe6HE)
 
-Dave Marsh
+[Dave Marsh](https://open.spotify.com/artist/1P4C4B1YHjiYhXmxyRSX71)
 
 [David Myles](https://davidmyles.com)
 
