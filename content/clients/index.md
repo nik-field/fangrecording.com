@@ -148,7 +148,7 @@ Myles Deck & The Fuzz
 
 Natalie Lynn
 
-Old Man Luedecke
+[Old Man Luedecke](https://truenorthrecords.bandcamp.com/album/i-never-sang-before-i-met-you)
 
 Peter Elkas
 
@@ -180,7 +180,7 @@ Sean McCann
 
 Shannon Quinn
 
-Shotgun Jimmie
+[Shotgun Jimmie](https://shotgunjimmie.bandcamp.com/album/field-of-trampolines)
 
 Skydiggers
 
