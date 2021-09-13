@@ -88,7 +88,7 @@ Ian Sherwood
 
 Jacob Strang & The High Class Hussies
 
-James Hill
+[James Hill](https://jameshillmusic.com/the-old-silo)
 
 Jeremy Finney
 
@@ -110,7 +110,7 @@ Journeyman Film
 
 Kilmore
 
-Leanne Hoffman
+[Leanne Hoffman](http://www.leannehoffman.com)
 
 Lee Park
 
@@ -178,7 +178,7 @@ Scrapes
 
 [Sean McCann](https://seanmccannsings.com/help-your-self)
 
-Shannon Quinn
+[Shannon Quinn](http://www.shannonquinnmusic.com)
 
 [Shotgun Jimmie](https://shotgunjimmie.bandcamp.com/album/field-of-trampolines)
 
