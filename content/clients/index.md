@@ -6,11 +6,9 @@ menu: main
 ---
 # Clients
 
-The history of this studio goes back to 2008 when I moved my 16 Track Studer tape machine into a little shack in a parking lot on Dundas Street in Dartmouth. I named the place Scotland Yard and started recording my triple record, [Three](https://open.spotify.com/album/6qaHhRmNS2SySKcL696GBH?si=-wIp9R2_QR2kRN3m6H7wPw&dl_branch=1). I produced a number of records and singles there with (with the help of Kyle Andrus and Carl Little engineering).  Mo Kenney's [self-titled debut](https://open.spotify.com/album/78hjo3XIUoPyebXLaGrBs5?si=q3V8noTyRIy4t3IqYl2x4Q&dl_branch=1), David Myles' [Turn Time Off](https://open.spotify.com/album/4ug8X3xfIx5RRPrbt8mf15?si=iZiC_6-bR6yELmO3WGT8IQ&dl_branch=1) and Steve Poltz's [Dreamhouse ](https://open.spotify.com/album/4Hmy9g6dwWrEBJlMLqvxuP?si=qaOJbSu-Txm2qLO6ztF1rA&dl_branch=1)being a few of my favourites. 
-
-I worked on projects there until 2012 and in 2013 we completed renovations and opened up the doors on The New Scotland Yard on Portland Street.  [Thomas Stajcer](https://open.spotify.com/artist/1xVZDEUa2mPCaQWkFYnYYb?si=jMX7JXP6SpCqXPlKkgnBBQ&dl_branch=1) got on board as engineer and studio manager, rapidly made himself invaluable, and we haven't looked back. Over the last 8 years, Thomas has worked with hundreds of musicians in the room, mentored other engineers who now work some sessions and I've continued to bring projects to the studio as a producer.  Our client list shows some of the folks who've helped make the place what it is. 
-
-In 2021, amidst the uncertainty of the pandemic, we decided a name change was in order. Fang Recording is named after my long departed, earless cat, White Fang, who would sleep in the bass drum when I used to rehearse in the basement. We look forward to continuing to be a part of the music community here in the Maritimes and watching this client list grow.  - Joel Plaskett,  September 2021
+Fang: 2021 - ?\
+New Scotland Yard: 2013 - 2021\
+Scotland Yard 2008-2012
 
 {{< sort >}}
 
