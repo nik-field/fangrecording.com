@@ -60,13 +60,13 @@ Co-Pilot
 
 Colleen Brown
 
-Dave Gunning & David Francey
+[Dave Gunning & David Francey](https://www.youtube.com/watch?v=X4l0-EOe6HE)
 
 Dave Marsh
 
 [David Myles](https://davidmyles.com)
 
-Dennis Ellsworth
+[Dennis Ellsworth](https://www.dennisellsworth.com)
 
 [Eric Stephen Martin](https://ericstephenmartin.bandcamp.com)
 
