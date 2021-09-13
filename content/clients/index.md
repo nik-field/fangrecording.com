@@ -68,7 +68,7 @@ David Myles
 
 Dennis Ellsworth
 
-Eric Stephen Martin
+[Eric Stephen Martin](https://ericstephenmartin.bandcamp.com)
 
 Erin Costelo
 
@@ -188,13 +188,13 @@ St. Thomas Black Youth Fellowship Choir
 
 Stand Back
 
-Steve Poltz
+[Steve Poltz](https://stevepoltz.bandcamp.com/album/dreamhouse)
 
 Terra Spencer
 
 The Bloody Hell
 
-The Brood
+[The Brood](https://seayou.bandcamp.com/album/the-brood-deranged-love)
 
 The Folk & Country Line
 
@@ -214,11 +214,11 @@ Tim Chaisson & Morningfold
 
 TJ Webb
 
-Two Hours Traffic
+[Two Hours Traffic](https://open.spotify.com/album/6h2uM4LzcSRLaUYUUHDxg5)
 
 Tyler Cameron
 
-Tyler Messick
+[Tyler Messick](https://music.apple.com/us/album/plain-sight-feat-tyler-messick/1376085789)
 
 United Way
 
@@ -236,7 +236,7 @@ Worlds Away
 
 Wrong Planet Band
 
-Yellow Jacket Avenger
+[Yellow Jacket Avenger](https://newscotlandrecords.bandcamp.com/album/yellow-jacket-avenger-7-single)
 
 Zoe Leger
 
