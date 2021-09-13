@@ -64,13 +64,13 @@ Dave Gunning & David Francey
 
 Dave Marsh
 
-David Myles
+[David Myles](https://davidmyles.com)
 
 Dennis Ellsworth
 
 [Eric Stephen Martin](https://ericstephenmartin.bandcamp.com)
 
-Erin Costelo
+[Erin Costelo](www.erincostelo.com)
 
 Garrett Mason
 
@@ -98,7 +98,7 @@ Jesse Thomas
 
 [Jimmy Rankin](https://truenorthrecords.bandcamp.com/album/moving-east)
 
-Joel Plaskett 
+[Joel Plaskett ](www.joelplaskett.com)
 
 Joel Plaskett Emergency
 
@@ -136,7 +136,7 @@ Matt Steele & The Corvette Sunset
 
 [Matthew Grimson](https://newscotlandrecords.bandcamp.com/album/matthew-grimson-7-single)
 
-Meredith Shaw
+[Meredith Shaw](https://music.apple.com/ca/album/trouble-ep/756953836)
 
 Mike Kerr
 
@@ -176,7 +176,7 @@ Scott Saccary
 
 Scrapes
 
-Sean McCann
+[Sean McCann](https://seanmccannsings.com/help-your-self)
 
 Shannon Quinn
 
