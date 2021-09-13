@@ -206,7 +206,7 @@ The Meds
 
 The Rebel Prospects
 
-The Scoop Outs
+[The Scoop Outs](https://scoopouts.bandcamp.com)
 
 The Will Be Gones
 
