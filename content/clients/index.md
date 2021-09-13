@@ -14,15 +14,15 @@ menu: main
 
 460 Kustom
 
-Ana Egge
+[Ana Egge](https://youtu.be/NHvTcYohEIM)
 
 Andy McDaniel
 
-Anna Plaskett
+[Anna Plaskett](https://open.spotify.com/artist/6ruVvVADCESlCm05vWNYkx?si=gVN9tG4WQTubnQNTP9X19g&dl_branch=1)
 
 Anne Janelle
 
-Aquakultre
+[Aquakultre](https://www.facebook.com/aquakultremusic)
 
 Atlantic Live Stream
 
