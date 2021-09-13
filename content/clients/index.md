@@ -96,7 +96,7 @@ Jeremy Fisher
 
 Jesse Thomas
 
-Jimmy Rankin
+[Jimmy Rankin](https://truenorthrecords.bandcamp.com/album/moving-east)
 
 Joel Plaskett 
 
@@ -116,7 +116,7 @@ Lee Park
 
 Les Hay Babies
 
-Liam Corcoran
+[Liam Corcoran](https://liamcorcoran1.bandcamp.com/album/nevahland)
 
 Lisa MacDougall
 
@@ -134,7 +134,7 @@ Mardeen
 
 Matt Steele & The Corvette Sunset
 
-Matthew Grimson
+[Matthew Grimson](https://newscotlandrecords.bandcamp.com/album/matthew-grimson-7-single)
 
 Meredith Shaw
 
@@ -170,7 +170,7 @@ Ryan Cook
 
 Ryan Davenport
 
-Saint Mary's University
+[Saint Mary's University](https://vimeo.com/565854567)
 
 Scott Saccary
 
