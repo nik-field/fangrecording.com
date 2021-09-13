@@ -140,17 +140,17 @@ Meredith Shaw
 
 Mike Kerr
 
-Mo Kenney
+[Mo Kenney](https://mokenney.com)
 
 Moira & Claire
 
-Myles Deck & The Fuzz
+[Myles Deck & The Fuzz](https://newscotlandrecords.bandcamp.com/album/myles-deck-the-fuzz-7-single)
 
 Natalie Lynn
 
 [Old Man Luedecke](https://truenorthrecords.bandcamp.com/album/i-never-sang-before-i-met-you)
 
-Peter Elkas
+[Peter Elkas](https://newscotlandrecords.bandcamp.com/album/peter-elkas-7-single)
 
 Polaris Music Prize
 
