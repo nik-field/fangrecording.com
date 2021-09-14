@@ -1,6 +1,6 @@
 ---
 title: Preamps, Compressors, EQ’s, DIs
-draft: true
+draft: false
 type: "gear"
 weight: 5
 ---

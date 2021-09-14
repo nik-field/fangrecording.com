@@ -1,6 +1,6 @@
 ---
 title: Drums
-draft: true
+draft: false
 type: "gear"
 weight: 8
 ---

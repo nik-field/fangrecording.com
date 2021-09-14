@@ -1,6 +1,6 @@
 ---
 title: Effects
-draft: true
+draft: false
 type: "gear"
 weight: 6
 ---

@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous
-draft: true
+draft: false
 type: "gear"
 weight: 11
 ---

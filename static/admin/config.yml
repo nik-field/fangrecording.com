@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: main
+  local_backend: true
 media_folder: "/content/gallery/img"
 public_folder: "/gallery/img"
 logo_url: https://fangrecording.com/images/fang-recording_white.svg
@@ -14,18 +15,18 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Content", name: "body", widget: "markdown" }
+  - label: "Clients"
+    name: "clients"
+    folder: "/content/clients"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Content", name: "body", widget: "markdown" }
   - label: "Single Pages"
     name: "pages"
     files:
       - label: "About"
         name: "about"
         file: "/content/about/index.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Content", name: "body", widget: "markdown" }
-      - label: "Clients"
-        name: "clients"
-        file: "/content/clients/index.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Content", name: "body", widget: "markdown" }

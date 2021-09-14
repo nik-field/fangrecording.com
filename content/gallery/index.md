@@ -1,6 +1,6 @@
 ---
 title: Gallery
-draft: true
+draft: false
 ---
 
 {{< gallery >}}

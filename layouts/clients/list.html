@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <div
+    id="clients-page"
+    class="container font-light tracking-widest p-2 lg:p-0 mt-4">
+    {{ .Content }}
+    {{ range .Pages }}
+      {{ .Content }}
+    {{ end }}
+  </div>
+{{ end }}

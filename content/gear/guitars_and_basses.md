@@ -1,6 +1,6 @@
 ---
 title: Studio guitars and basses
-draft: true
+draft: false
 type: "gear"
 weight: 7
 ---

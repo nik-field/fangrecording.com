@@ -57,13 +57,23 @@ a.active {
 }
 
 /* Clients */
-#clients p {
+#clients-page p {
   @apply text-lg mb-2;
 }
 
-#clients .sorted-list {
+#clients-page .sorted-list {
   @apply gap-x-10 lg:gap-x-40;
 }
+
+#clients-page > p:first-of-type {
+  line-height: 1.2rem;
+  font-size: 0.9rem;
+}
+
+#clients-page h1 {
+  margin-bottom: 0.5rem;
+}
+
 @screen md {
   .sorted-list {
     column-count: 2;

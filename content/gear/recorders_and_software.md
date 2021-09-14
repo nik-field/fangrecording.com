@@ -1,6 +1,6 @@
 ---
 title: Recorders and Software
-draft: true
+draft: false
 type: "gear"
 weight: 2
 ---

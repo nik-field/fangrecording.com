@@ -1,6 +1,6 @@
 ---
 title: Amplifiers
-draft: true
+draft: false
 type: "gear"
 weight: 9
 ---
