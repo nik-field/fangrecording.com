@@ -1,8 +1,10 @@
 backend:
-  name: proxy
-  proxy_url: http://localhost:8081/api/v1
+  # name: proxy
+  # proxy_url: http://localhost:8081/api/v1
+  # branch: main
+  # local_backend: true
+  name: git-gateway
   branch: main
-  local_backend: true
 media_folder: "/content/gallery/img"
 public_folder: "/gallery/img"
 logo_url: https://fangrecording.com/images/fang-recording_white.svg
