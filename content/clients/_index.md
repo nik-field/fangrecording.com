@@ -1,7 +1,8 @@
 ---
 title: Clients
 draft: false
-type: clients
-headless: true
 menu: main
+headless: true
+weight: 2
 ---
+This just creates the link in the menu.

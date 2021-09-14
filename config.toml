@@ -3,21 +3,7 @@ languageCode = "en-us"
 title = "Fang Recording"
 theme = "Fang"
 enableInlineShortcodes = true
-
-[[menu.main]]
-    url = "/about/"
-    name = "About"
-    weight = 1
-
-[[menu.main]]
-    url = "/clients/"
-    name = "Clients"
-    weight = 2
-
-[[menu.main]]
-    url = "/gear/"
-    name = "Gear"
-    weight = 3
+pluralizelisttitles = false
 
 [[menu.main]]
     url = "mailto:fangrecording@gmail.com"

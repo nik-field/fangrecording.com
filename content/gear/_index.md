@@ -1,7 +1,8 @@
 ---
 title: Gear
 draft: false
-type: "about"
 menu: main
 headless: true
+weight: 3
 ---
+This just creates the link in the menu.
