@@ -1,5 +1,5 @@
 ---
-title: Clients List
+title: List
 draft: false
 type: clients
 ---

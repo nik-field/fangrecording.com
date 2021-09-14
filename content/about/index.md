@@ -2,6 +2,7 @@
 title: About
 draft: false
 type: "about"
+menu: main
 ---
 
 Fang Recording is a professional recording facility located in Dartmouth, Nova Scotia. Formerly known as The New Scotland Yard, the studio has been managed since 2013 by Thomas Stajcer who also acts as one of the studio’s main engineers. Fang is owned by local musician and producer Joel Plaskett.
