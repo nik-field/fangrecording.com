@@ -1,1 +1,1 @@
-<div class="sorted-list">{{ delimit (sort (split .Inner "\n\n")) "<br>"}}</div>
+<div class="sorted-list">{{ .Page.RenderString (delimit (split .Inner "\n\n") "<br />") }}</div>

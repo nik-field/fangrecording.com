@@ -1,24 +1,35 @@
 {{ define "main"}}
 <div id="clients" class="container font-light tracking-widest p-2 lg:p-0 mt-4">{{ .Content }}</div>
 <script>
-  const list = document.querySelector(".sorted-list");
+  if (true) {
+    const list = document.querySelector(".sorted-list");
+    window.list = list;
+    const headedList = Array.from(list.childNodes)
+      .filter((node) => node.nodeType !== 8) // remove any COMMENT_NODEs
+      .reduce((acc, client, index, arr) => {
+        // if the client name starts with a number and the accumulator doesn't already have a '#' heading
+        if (client.textContent[0].match(/[0-9]/g) && !acc.join().includes("#num")) {
+          acc.push(`<div><div id="#num" class="letter-header">#</div>`, `<p class="client-name">${client.textContent}</p>`);
 
-  const headedList = list.innerText
-    .trim("\n")
-    .split("\n")
-    .reduce((acc, client, index, arr) => {
-      if (client[0].match(/[0-9]/g) && !acc.join().includes("#num")) {
-        acc.push(`<div><div id="#num" class="letter-header">#</div>`, `<p class="client-name">${client}</p>`);
-        return acc;
-      } else if (!acc.join().includes(`#${client[0]}`)) {
-        acc.push(`</div><div><div id="#${client[0]}" class="letter-header">${client[0].toUpperCase()}</div>`, `<p class="client-name">${client}</p>`);
-        return acc;
-      } else {
-        acc.push(`<p class="client-name">${client}</p>`);
-        return acc;
-      }
-    }, []);
-  headedList.push("</div>");
-  list.innerHTML = headedList.join("");
+          return acc;
+          // if the accumulator doesn't already have a heading for the client name
+        } else if (!acc.join().includes(`#${client.textContent[0]}`)) {
+          acc.push(
+            `</div><div><div id="#${client.textContent[0]}" class="letter-header">${client.textContent[0].toUpperCase()}</div>`,
+            `<p class="client-name">${client.outerHTML || client.textContent}</p>`
+          );
+
+          return acc;
+        } else {
+          acc.push(`<p class="client-name">${client.outerHTML || client.textContent}</p>`);
+
+          return acc;
+        }
+      }, []);
+
+    headedList.push("</div>");
+
+    list.innerHTML = headedList.join("");
+  }
 </script>
 {{ end }}
