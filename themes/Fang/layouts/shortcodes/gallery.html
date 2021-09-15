@@ -1,17 +1,40 @@
 {{ $image := (.Page.Resources.ByType "image") }}
-<div class="fotorama" data-width="1600" data-ratio="1600/800" data-minheight="300" data-fit="cover">
-  {{ with $image }} {{$index := 0}} {{ range . }} {{ $resized := .Fit "1600x800 q75" }}
-  <div class="w-full h-full">
-    <a class="block h-full" href="javascript:;" data-fancybox-trigger="gallery" data-fancybox-index="{{$index}}">
-      <img class="object-cover w-full h-full" src="{{ $resized.Permalink }}" />
-    </a>
-  </div>
-  {{ $index = add $index 1}} {{ end }} {{ end }}
+<div
+  class="fotorama"
+  data-width="1600"
+  data-ratio="1600/800"
+  data-minheight="300"
+  data-fit="cover">
+  {{ with $image }}
+    {{ $index := 0 }}
+    {{ range . }}
+      {{ $resized := .Fit "1920x1080 q75" }}
+      <div class="w-full h-full">
+        <a
+          class="block h-full"
+          href="javascript:;"
+          data-fancybox-trigger="gallery"
+          data-fancybox-index="{{ $index }}">
+          <img
+            class="object-cover w-full h-full"
+            src="{{ $resized.Permalink }}" />
+        </a>
+      </div>
+      {{ $index = add $index 1 }}
+    {{ end }}
+  {{ end }}
 </div>
 <div id="masonry" class="hidden">
-  {{ with $image }} {{ range . }} {{ $resized := .Fit "1600x800 q75" }}
-  <a href="{{ $resized.Permalink }}" data-fancybox="gallery">
-    <img loading="lazy" class="object-cover w-full h-full" src="{{ $resized.Permalink }}" />
-  </a>
-  {{ end }} {{ end }}
+  {{ with $image }}
+    {{ range . }}
+      {{ $thumbnail := .Fit "500x500 q75" }}
+      {{ $resized := .Fit "1920x1080 q75" }}
+      <a href="{{ $resized.Permalink }}" data-fancybox="gallery">
+        <img
+          loading="lazy"
+          class="object-cover w-full h-full"
+          src="{{ $thumbnail.Permalink }}" />
+      </a>
+    {{ end }}
+  {{ end }}
 </div>

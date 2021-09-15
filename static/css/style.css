@@ -986,11 +986,6 @@ video {
   margin: 1rem;
 }
 
-.mx-4 {
-  margin-left: 1rem;
-  margin-right: 1rem;
-}
-
 .mt-4 {
   margin-top: 1rem;
 }
@@ -1061,30 +1056,6 @@ video {
 
 .flex-1 {
   flex: 1 1 0%;
-}
-
-.flex-auto {
-  flex: 1 1 auto;
-}
-
-.flex-\[100\%\] {
-  flex: 100%;
-}
-
-.flex-\[1\2c 1\2c 100\%\] {
-  flex: 1,1,100%;
-}
-
-.flex-\[1\\1\\100\%\] {
-  flex: 1\1\100%;
-}
-
-.flex-\[1\:1\:100\%\] {
-  flex: 1:1:100%;
-}
-
-.flex-\[1\\\2c 1\\\2c 100\%\] {
-  flex: 1\,1\,100%;
 }
 
 .cursor-pointer {
@@ -1216,11 +1187,6 @@ video {
 .text-4xl {
   font-size: 2.25rem;
   line-height: 2.5rem;
-}
-
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
 }
 
 .font-extralight {
@@ -1546,21 +1512,6 @@ a.active {
 }
 
 @media (min-width: 1280px) {
-  .xl\:mx-8 {
-    margin-left: 2rem;
-    margin-right: 2rem;
-  }
-
-  .xl\:mx-4 {
-    margin-left: 1rem;
-    margin-right: 1rem;
-  }
-
-  .xl\:mx-2 {
-    margin-left: 0.5rem;
-    margin-right: 0.5rem;
-  }
-
   .xl\:mx-1 {
     margin-left: 0.25rem;
     margin-right: 0.25rem;
