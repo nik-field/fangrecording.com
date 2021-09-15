@@ -47,7 +47,7 @@
       {{ if .Site.Menus.main }}
         <ul class="nav navbar-nav navbar-right flex flex-row justify-between">
           {{ range sort .Site.Menus.main }}
-            <li class="px-6 xl:px-12">
+            <li class="px-6 xl:px-12 flex items-center">
               <a
                 class="{{ if $currentPage.IsMenuCurrent "main" . }}
                   active
@@ -56,6 +56,15 @@
                 >{{ .Name }}</a
               >
             </li>
+          {{ end }}
+          {{ if .Site.Menus.icon }}
+            {{ range .Site.Menus.icon }}
+              <li>
+                <a href="{{ .URL }}"
+                  ><i class="{{ .Name }} text-3xl p-2 xl:mx-1"></i
+                ></a>
+              </li>
+            {{ end }}
           {{ end }}
         </ul>
       {{ end }}
@@ -73,6 +82,15 @@
                 href="{{ .URL }}"
                 >{{ .Name }}</a
               >
+            </li>
+          {{ end }}
+          {{ if .Site.Menus.icon }}
+            <li>
+              {{ range .Site.Menus.icon }}
+                <a href="{{ .URL }}"
+                  ><i class="{{ .Name }} text-4xl p-2 m-4"></i
+                ></a>
+              {{ end }}
             </li>
           {{ end }}
         </ul>

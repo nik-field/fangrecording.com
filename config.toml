@@ -15,26 +15,11 @@ pluralizelisttitles = false
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
-    name = "fas fa-envelope"
-    weight = 1
-
-[[menu.icon]]
-    url = "https://github.com/username/"
-    name = "fab fa-github"
+    url = "https://instagram.com/fangrecording/"
+    name = "fab fa-instagram"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "fab fa-twitter"
+    url = "https://open.spotify.com/user/knbbyjp2jmme2mhmdgeno1tuc"
+    name = "fab fa-spotify"
     weight = 3
-
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "fab fa-linkedin"
-    weight = 4
-
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "fab fa-stack-overflow"
-    weight = 5

@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{- partial "hero.html" .Site.GetPage "section" "gallery" -}}
-{{.Content}}
-{{- partial "main.html" -}}
+  {{- partial "hero.html" .Site.GetPage "section" "gallery" -}}
+  {{ .Content }}
+  {{- partial "main.html" . -}}
 {{ end }}
