@@ -596,6 +596,14 @@ video {
 }
 
 *, ::before, ::after {
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
   --tw-border-opacity: 1;
   border-color: rgba(228, 228, 231, var(--tw-border-opacity));
   --tw-blur: var(--tw-empty,/*!*/ /*!*/);
@@ -808,6 +816,59 @@ video {
 
 .collapse-open .collapse-content,.collapse:focus:not(.collapse-close) .collapse-content,.collapse:not(.collapse-close) input[type=checkbox]:checked~.collapse-content {
   max-height: 9000px;
+}
+
+.dropdown {
+  display: inline-block;
+  position: relative;
+}
+
+.dropdown>:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+.dropdown .dropdown-content {
+  opacity: 0;
+  position: absolute;
+  visibility: hidden;
+  z-index: 50;
+}
+
+.dropdown-end .dropdown-content {
+  right: 0;
+}
+
+.dropdown-left .dropdown-content {
+  top: 0;
+  bottom: auto;
+  right: 100%;
+}
+
+.dropdown-right .dropdown-content {
+  top: 0;
+  bottom: auto;
+  left: 100%;
+}
+
+.dropdown-top .dropdown-content {
+  top: auto;
+  bottom: 100%;
+}
+
+.dropdown-end.dropdown-right .dropdown-content {
+  bottom: 0;
+  top: auto;
+}
+
+.dropdown-end.dropdown-left .dropdown-content {
+  bottom: 0;
+  top: auto;
+}
+
+.dropdown.dropdown-hover:hover .dropdown-content,.dropdown.dropdown-open .dropdown-content,.dropdown:not(.dropdown-hover):focus-within .dropdown-content,.dropdown:not(.dropdown-hover):focus .dropdown-content {
+  opacity: 1;
+  visibility: visible;
 }
 
 .footer {
@@ -1058,6 +1119,10 @@ video {
   flex: 1 1 0%;
 }
 
+.transform {
+  transform: var(--tw-transform);
+}
+
 .cursor-pointer {
   cursor: pointer;
 }
@@ -1225,6 +1290,14 @@ video {
 
 .filter {
   filter: var(--tw-filter);
+}
+
+.transition {
+  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
+  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
 }
 
 * {

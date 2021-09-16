@@ -45,12 +45,115 @@
           </ul>
         {{ end }}
       </div>
-      <div class="w-full flex justify-center mt-4">
-        <img
-          width="250px"
-          height="auto"
-          src="/images/45-portland_logo--w-fang.svg"
-          alt="" />
+      <div class="w-full flex justify-center mt-4 relative">
+        <style>
+          /* Dropdown Button */
+          .dropbtn {
+            border: none;
+            cursor: pointer;
+          }
+
+          /* The container <div> - needed to position the dropdown content */
+          .dropdown {
+            position: relative;
+            display: inline-block;
+          }
+
+          /* Dropdown Content (Hidden by Default) */
+          .dropdown-content {
+            background-color: black;
+            visibility: hidden;
+            bottom: 125%;
+            border: solid 1px;
+            width: 250px;
+            position: absolute;
+            min-width: 160px;
+            z-index: 1;
+            opacity:0;
+            transition: opacity 300ms ease-in-out;
+          }
+
+          /* Links inside the dropdown */
+          .dropdown-content a {
+            text-decoration: none;
+            display: block;
+          }
+
+          /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+          .show {
+            opacity: 1;
+            visibility: visible;
+          }
+          .arrow-down {
+            width: 0; 
+            height: 0; 
+            border-left: 20px solid transparent;
+            border-right: 20px solid transparent;
+            position: absolute;
+            left:50%;
+            transform: translate(-50%, -20%) scale(0.5);
+            border-top: 20px solid #FFF;
+          }
+        </style>
+        <script>
+          /* When the user clicks on the button,
+          toggle between hiding and showing the dropdown content */
+          function showDropdown() {
+            console.log("show");
+            document.getElementById("45-menu").classList.toggle("show");
+          }
+
+          // Close the dropdown menu if the user clicks outside of it
+          window.onclick = function (event) {
+            if (!event.target.matches(".button-img")) {
+              const dropdowns =
+                document.getElementsByClassName("dropdown-content");
+              for (let i = 0; i < dropdowns.length; i++) {
+                const openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains("show")) {
+                  openDropdown.classList.remove("show");
+                }
+              }
+            }
+          };
+        </script>
+        <button onclick="showDropdown()" class="dropbtn">
+          <img
+            class="button-img"
+            width="250px"
+            height="auto"
+            src="/images/45-portland_logo--w-fang.svg"
+            alt="" />
+        </button>
+        <div id="45-menu" class="dropdown-content">
+          <a href="https://frictionbooks.com" target="_blank" class="friction"><img
+            class="button-img"
+            width="250px"
+            height="auto"
+            src="/images/Friction_button.png"
+            alt="" /></a>
+          <a href="https://instagram.com/morleysdartmouth" target="_blank" class="morleys"><img
+            class="button-img"
+            width="250px"
+            height="auto"
+            src="/images/Morleys_button.png"
+            alt="" /></a>
+          <a href="https://tazrecords.com" target="_blank" class="taz"><img
+            class="button-img"
+            width="250px"
+            height="auto"
+            src="/images/Taz_button.png"
+            alt="" /></a>
+          <a href="https://twitter.com/nsyemporium" target="_blank" class="twit"><img
+            class="button-img"
+            width="250px"
+            height="auto"
+            src="/images/Twitter_button.png"
+            alt="" /></a>
+            <div class="arrow-down"></div>
+          </div>
+          
+        </div>
       </div>
     </div>
     <div class=" flex items-end text-2xs p-4 absolute right-0 bottom-0">
