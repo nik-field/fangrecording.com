@@ -149,6 +149,8 @@ Polaris Music Prize
 
 Port Cities
 
+[Quiet Hill](www.quiethill.ca)
+
 Quiet Parade
 
 Regal Beagle Band
