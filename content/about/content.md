@@ -9,6 +9,6 @@ The studio was designed to create a comfortable and open environment where music
 
 Equipped to record digitally with Pro Tools and 32 channels of Universal Audio Apollo converters, we can also record and mix entirely analog using our stellar Rupert Neve 5088 console, Studer tape machines, and quality microphones, pre amps, compressors and analog effects. Furthermore, we have the ability to merge the digital and analog worlds seamlessly using the Endless Analog CLASP system, allowing artists to hit tape while simultaneously tracking into Protools, providing analog warmth and digital convenience. We have a large selection of vintage drums, amps, guitars and keyboards.
 
-Fang is located at 45 Portland Street in downtown Dartmouth, in the same building as [Morley’s Coffee](https://instagram.com/morelysdartmouth), [Taz Records](https://tazrecords.com) and [Friction Books](https://frictionbooks.com). Just a few minutes from the waterfront and ferry to Halifax, the neighbourhood features some great restaurants, shops and bars.
+Fang is located at 45 Portland Street in downtown Dartmouth, in the same building as [Morley’s Coffee](https://instagram.com/morleysdartmouth), [Taz Records](https://tazrecords.com) and [Friction Books](https://frictionbooks.com). Just a few minutes from the waterfront and ferry to Halifax, the neighbourhood features some great restaurants, shops and bars.
 
 [Click here to contact Thomas if you’d like to inquire about rates, book some time or arrange a studio visit.](mailto:fangrecording@gmail.com)
