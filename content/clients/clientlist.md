@@ -11,6 +11,8 @@ type: clients
 
 [AJ Gillis](https://ajhgillis.bandcamp.com)
 
+[Alan Doyle](https://alandoyle.ca)
+
 [Alan Syliboy](https://www.alansyliboy.ca)
 
 [Allen Snow](https://www.allensnowmusic.com)
@@ -53,7 +55,11 @@ Ben Gunning
 
 [Breagh Isabel](https://www.breaghisabel.com)
 
+Brian Fitzpatrick
+
 Brothers
+
+[Cameron Nickerson](https://www.cameronnickerson.com)
 
 [Cancer Bats](https://youtu.be/8GhiSFDzRb4)
 
@@ -95,7 +101,11 @@ Evan Meisner
 
 [Gloryhound](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0CAQQw7AJahcKEwjIqYGg0Oz5AhUAAAAAHQAAAAAQAg&url=https%3A%2F%2Fopen.spotify.com%2Fartist%2F0v5qfoVw3l58DnyAtB0LdJ&psig=AOvVaw3TbDMYbjIe-TXbpep7A1BR&ust=1661882312939643)
 
+[Golden Cinema](https://goldencinema.bandcamp.com/album/reels-2016-2021)
+
 [Good Dear Good](https://www.gooddeargood.com)
+
+[Graven](https://graven.bandcamp.com)
 
 [Gypsophilia](https://gypsophilia.bandcamp.com)
 
@@ -109,7 +119,11 @@ Evan Meisner
 
 [Ian Sherwood](https://iansherwood.com)
 
+Jacob Ballard
+
 [Jacob Strang & The High Class Hussies](https://jacobstrang.bandcamp.com/album/jacob-strang-the-high-class-hussies)
+
+[Jah'Mila](https://www.jahmilamusic.com)
 
 [James Hill](https://jameshillmusic.com/the-old-silo)
 
@@ -125,6 +139,8 @@ Jersey Giants
 
 Joel Plaskett Emergency
 
+Jon Church
+
 [Jon Epworth](https://jonepworth.ca)
 
 [Jont](https://www.jontnet.com)
@@ -133,13 +149,21 @@ Joel Plaskett Emergency
 
 [Julie Aubé](https://www.julieaube.me)
 
+[Katie Kraw](https://katiekraw.com)
+
+Kevin Hubley
+
 [Kilmore](https://kilmore.ca)
+
+[Kim Lake](https://www.kimjoylake.com)
 
 [Leanne Hoffman](http://www.leannehoffman.com)
 
 [Lee Park](https://www.facebook.com/leepark.ca/)
 
 [Les Hay Babies](http://leshaybabies.com)
+
+[Les Moontunes](https://lesmoontunes.bandcamp.com)
 
 [Liam Corcoran](https://liamcorcoran1.bandcamp.com/album/nevahland)
 
@@ -184,6 +208,8 @@ Marcus Mowat
 Ocean Floor Recording
 
 [Old Man Luedecke](https://truenorthrecords.bandcamp.com/album/i-never-sang-before-i-met-you)
+
+Open Borders
 
 [Piner](https://piner9.bandcamp.com)
 
@@ -237,7 +263,11 @@ St. Thomas Black Youth Fellowship Choir
 
 [Steve Poltz](https://stevepoltz.bandcamp.com/album/dreamhouse)
 
+[Stonebrother](https://stonebrother.bandcamp.com/)
+
 [Terra Spencer](https://terraspencer.ca)
+
+[The Basin Brothers](https://www.thebasinbrothers.com)
 
 [The Bloody Hell](https://thebloodyhell.bandcamp.com)
 
@@ -246,6 +276,10 @@ St. Thomas Black Youth Fellowship Choir
 [The Folk & Country Line](https://www.thefolkandcountryline.com)
 
 [The Heavy Meadows](https://heavymeadows.bandcamp.com/)
+
+The Hightides
+
+The Legendary Goldblooms
 
 The Maudes
 
