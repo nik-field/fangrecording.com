@@ -257,6 +257,8 @@ The Maudes
 
 The Will Be Gones
 
+[Thomas Stajcer](http://thomasstajcer.bandcamp.com)
+
 [Tim Chaisson & Morningfold](https://open.spotify.com/artist/1ldS0wPORcHdXQbV7PPAms)
 
 [TJ Webb](https://tjwebb.bandcamp.com)
