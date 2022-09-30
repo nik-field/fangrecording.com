@@ -313,7 +313,11 @@ Vlad King
 
 [Wildcat](https://wildcat-pei.bandcamp.com)
 
+Willie Stratton
+
 [Willem Paynter](https://willempaynter.bandcamp.com/music)
+
+Wolfcastle
 
 Worlds Away
 
