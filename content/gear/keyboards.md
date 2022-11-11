@@ -14,6 +14,7 @@ weight: 10
 * Hohner Clavinet/Pianet Duo
 * Nord Electro
 * MicroKorg synth
+* T﻿hird Man Records Septavox
 * Yamaha CP10
 * MultiVox MX20
 * Salanti Accordian
