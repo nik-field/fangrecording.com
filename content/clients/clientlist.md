@@ -89,6 +89,8 @@ Co-Pilot
 
 [Dennis Ellsworth](https://www.dennisellsworth.com)
 
+D﻿onnie Crowell
+
 [Eric Stephen Martin](https://ericstephenmartin.bandcamp.com)
 
 [Erin Costelo](www.erincostelo.com)
@@ -126,6 +128,8 @@ Jacob Ballard
 [Jah'Mila](https://www.jahmilamusic.com)
 
 [James Hill](https://jameshillmusic.com/the-old-silo)
+
+[J﻿eremy Dutcher](https://jeremydutcher.com/)
 
 [Jeremy Finney](https://jeremyfinneymusic.com)
 
@@ -254,6 +258,8 @@ Scrapes
 [Sister Swire](https://open.spotify.com/artist/27vyYOKJS0IfGNrLJGxgFY)
 
 [Skydiggers](https://skydiggers.com)
+
+S﻿ly-Fi
 
 Spencer Critchley
 
