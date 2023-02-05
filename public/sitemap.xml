@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fangrecording.com/about/</loc>
+  </url><url>
     <loc>https://fangrecording.com/gear/console/</loc>
   </url><url>
+    <loc>https://fangrecording.com/clients/</loc>
+  </url><url>
     <loc>https://fangrecording.com/gear/recorders_and_software/</loc>
+  </url><url>
+    <loc>https://fangrecording.com/gear/</loc>
   </url><url>
     <loc>https://fangrecording.com/gear/monitoring/</loc>
   </url><url>
@@ -24,17 +30,17 @@
   </url><url>
     <loc>https://fangrecording.com/gear/miscellaneous/</loc>
   </url><url>
-    <loc>https://fangrecording.com/about/</loc>
-  </url><url>
     <loc>https://fangrecording.com/categories/</loc>
   </url><url>
-    <loc>https://fangrecording.com/clients/</loc>
+    <loc>https://fangrecording.com/about/content/</loc>
   </url><url>
     <loc>https://fangrecording.com/</loc>
   </url><url>
     <loc>https://fangrecording.com/gallery/</loc>
   </url><url>
-    <loc>https://fangrecording.com/gear/</loc>
+    <loc>https://fangrecording.com/clients/info/</loc>
+  </url><url>
+    <loc>https://fangrecording.com/clients/clientlist/</loc>
   </url><url>
     <loc>https://fangrecording.com/tags/</loc>
   </url>

@@ -1,4 +1,8 @@
 backend:
+  # name: proxy
+  # proxy_url: http://localhost:8081/api/v1
+  # branch: main
+  # local_backend: true
   name: git-gateway
   branch: main
 media_folder: "/content/gallery/img"
@@ -14,18 +18,15 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Content", name: "body", widget: "markdown" }
-  - label: "Single Pages"
-    name: "pages"
-    files:
-      - label: "About"
-        name: "about"
-        file: "/content/about/index.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Content", name: "body", widget: "markdown" }
-      - label: "Clients"
-        name: "clients"
-        file: "/content/clients/index.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Content", name: "body", widget: "markdown" }
+  - label: "Clients"
+    name: "clients"
+    folder: "/content/clients"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Content", name: "body", widget: "markdown" }
+  - label: "About"
+    name: "about"
+    folder: "/content/about"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Content", name: "body", widget: "markdown" }

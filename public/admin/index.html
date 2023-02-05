@@ -1,16 +1,21 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-
-<head>
+  <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <title>Content Manager</title>
-</head>
+    <style>
+      a[href*="#/collections/clients/entries/_index"],
+      a[href*="#/collections/about/entries/_index"],
+      a[href*="#/collections/gear/entries/_index"] {
+        display: none;
+      }
+    </style>
+  </head>
 
-<body>
+  <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-</body>
-
+  </body>
 </html>
