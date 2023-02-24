@@ -3,6 +3,7 @@ title: Content
 draft: false
 type: calendar
 ---
+T﻿est in content
 
 Last-minute rate is $50/hr +HST and an additional $7.50/hr +HST for tape, if desired. Minimum booking is three hours.
 
