@@ -1,6 +1,12 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-{{ range .Pages }}
 {{ .Content }}
 {{ end }}
+{{ define "iframe" }}
+<iframe id="open-web-calendar"
+        style="background:url('../images/circular-loader.gif') center center no-repeat;"
+        src="https://open-web-calendar-nik-field.vercel.app/calendar.html?url={{ .Params.iframe_url }}&amp;title={{ .Title }}&amp;skin=dhtmlxscheduler_flat.css&amp;target=_blank"
+        sandbox="allow-scripts allow-same-origin allow-popups"
+        allowTransparency="true" scrolling="no"
+        frameborder="0" height="100%" width="100%"></iframe>
 {{ end }}

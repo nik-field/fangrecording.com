@@ -35,4 +35,3 @@ collections:
     folder: "/content/calendar"
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Content", name: "body", widget: "markdown" }
