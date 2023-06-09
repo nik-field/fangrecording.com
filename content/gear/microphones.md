@@ -4,6 +4,9 @@ draft: false
 type: gear
 weight: 4
 ---
+* N﻿eumann U67 tube condenser (vintage)
+* T﻿elefunken KM56 small-diaphragm tube condenser (vintage)
+* S﻿oundelux U95 tube condenser (modded with vintage K87 capsule)
 * Neumann M-150 tube condenser
 * Neumann KM 184 small diaphragm condenser
 * Neumann TLM 103 large diaphragm condenser
