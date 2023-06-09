@@ -15,9 +15,13 @@ type: clients
 
 [Alan Syliboy](https://www.alansyliboy.ca)
 
+[A﻿lasdair Roberts](http://www.alasdairroberts.com/)
+
 [Allen Snow](https://www.allensnowmusic.com)
 
 [Ally Fiola](https://AllyFiola.com)
+
+[A﻿lex MacNeil](https://www.instagram.com/alexmacneilsongs/)
 
 [Ana Egge](https://youtu.be/NHvTcYohEIM)
 
@@ -59,6 +63,8 @@ Brian Fitzpatrick
 
 Brothers
 
+[C﻿allum Gaudet](http://instagram.com/callumgaudet)
+
 [Cameron Nickerson](https://www.cameronnickerson.com)
 
 [Cancer Bats](https://youtu.be/8GhiSFDzRb4)
@@ -80,6 +86,8 @@ Co-Pilot
 [Colleen Brown](https://www.youtube.com/watch?v=8L7Y1LWVD0A)
 
 [Daniel James McFadyen](https://danieljamesmcfadyen.com)
+
+D﻿ave & The Latest Scheme
 
 [Dave Gunning & David Francey](https://www.youtube.com/watch?v=X4l0-EOe6HE)
 
@@ -177,6 +185,8 @@ Lydian School of Music
 
 Madeline Teele
 
+M﻿ahogany Hollow
+
 Magnetic North
 
 Marc Belliveau
@@ -202,6 +212,8 @@ Marcus Mowat
 [Moira & Claire](https://www.instagram.com/moiraandclaire/?hl=en)
 
 [Moira Bren](https://www.instagram.com/6_is_green/?hl=en)
+
+M﻿ojo In The Middle
 
 [Myles Deck & The Fuzz](https://newscotlandrecords.bandcamp.com/album/myles-deck-the-fuzz-7-single)
 
@@ -322,6 +334,10 @@ Vlad King
 Willie Stratton
 
 [Willem Paynter](https://willempaynter.bandcamp.com/music)
+
+[W﻿indow Inn](https://www.patreon.com/thewindowinn)
+
+W﻿indow Inn Wednesday
 
 Wolfcastle
 
