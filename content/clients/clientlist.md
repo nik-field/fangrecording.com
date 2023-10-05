@@ -229,6 +229,8 @@ Open Borders
 
 [Piner](https://piner9.bandcamp.com)
 
+P﻿ete Johnson
+
 [Peter Elkas](https://newscotlandrecords.bandcamp.com/album/peter-elkas-7-single)
 
 [Polaris Music Prize](https://polarismusicprize.ca)
@@ -283,6 +285,8 @@ St. Thomas Black Youth Fellowship Choir
 
 [Stonebrother](https://stonebrother.bandcamp.com/)
 
+[S﻿undae Girl](https://sundaegirlband.ca/)
+
 [Terra Spencer](https://terraspencer.ca)
 
 [The Basin Brothers](https://www.thebasinbrothers.com)
@@ -314,6 +318,10 @@ The Will Be Gones
 [Tim Chaisson & Morningfold](https://open.spotify.com/artist/1ldS0wPORcHdXQbV7PPAms)
 
 [TJ Webb](https://tjwebb.bandcamp.com)
+
+T﻿om Roach
+
+[T﻿ony D](https://www.tonyguitarro.com/)
 
 [Two Hours Traffic](https://open.spotify.com/album/6h2uM4LzcSRLaUYUUHDxg5)
 
