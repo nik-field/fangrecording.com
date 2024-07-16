@@ -7,6 +7,10 @@ type: clients
 
 [460 Kustom](https://www.facebook.com/460Kustom/)
 
+[9﻿th Prince](https://www.instagram.com/real9thprince/?hl=en)
+
+[A﻿dria Jackson](https://adriajacksonharp.com/)
+
 [Adrian Raso](https://www.adrianraso.net)
 
 [AJ Gillis](https://ajhgillis.bandcamp.com)
@@ -16,6 +20,8 @@ type: clients
 [Alan Syliboy](https://www.alansyliboy.ca)
 
 [A﻿lasdair Roberts](http://www.alasdairroberts.com/)
+
+[A﻿ll Mother](https://www.instagram.com/allmothermusic/)
 
 [Allen Snow](https://www.allensnowmusic.com)
 
@@ -33,6 +39,8 @@ type: clients
 
 [Aquakultre](https://www.facebook.com/aquakultremusic)
 
+A﻿rt Boumann
+
 [Atlantic Live Stream](https://www.atlanticlivestream.ca)
 
 [Awolk](https://www.awolkmusic.com)
@@ -49,11 +57,15 @@ Ben Gunning
 
 [Big Turnip Jubilee](http://instagram.com/thebigturnipjubilee)
 
+[B﻿ill Ricky](https://www.instagram.com/ilovebillricky/)
+
 [Bill Stevenson](https://vimeo.com/578851609/5499a6b107)
 
 [Blue Spirits](https://mobile.twitter.com/bluespiritshfx)
 
 [Boy Golden](https://yaboygolden.bandcamp.com/album/church-of-better-daze)
+
+[B﻿raden Lam](https://bradenlam.com/)
 
 [Brad Reid](https://bradreid.ca)
 
@@ -97,7 +109,11 @@ D﻿ave & The Latest Scheme
 
 [Dennis Ellsworth](https://www.dennisellsworth.com)
 
+[D﻿om Pacino](https://www.instagram.com/realdompachino/)
+
 D﻿onnie Crowell
+
+[D﻿ylan Jewers](https://bigturnips.bandcamp.com/album/all-the-dead-still-left-alive-other-poems)
 
 [Eric Stephen Martin](https://ericstephenmartin.bandcamp.com)
 
@@ -137,6 +153,8 @@ Jacob Ballard
 
 [James Hill](https://jameshillmusic.com/the-old-silo)
 
+[J﻿amie Comeau & The Crooked Teeth](https://thecrookedteeth.bandcamp.com/)
+
 [J﻿eremy Dutcher](https://jeremydutcher.com/)
 
 [Jeremy Finney](https://jeremyfinneymusic.com)
@@ -163,11 +181,19 @@ Jon Church
 
 [Katie Kraw](https://katiekraw.com)
 
+[K﻿evin Brunkhorst](https://www.youtube.com/user/KBrunkhorst/videos)
+
 Kevin Hubley
+
+K﻿illarmy
 
 [Kilmore](https://kilmore.ca)
 
 [Kim Lake](https://www.kimjoylake.com)
+
+K﻿inetic 9
+
+[L﻿aura Rae](https://www.laurarae.ca/)
 
 [Leanne Hoffman](http://www.leannehoffman.com)
 
@@ -190,6 +216,8 @@ M﻿ahogany Hollow
 Magnetic North
 
 Marc Belliveau
+
+[M﻿arc McLaughlin](https://www.instagram.com/rango______starr/)
 
 Marcus Mowat
 
@@ -305,6 +333,8 @@ The Legendary Goldblooms
 
 The Maudes
 
+[T﻿he McMillan's Camp Boys](https://www.instagram.com/themcmillanscampboys/)
+
 [The Meds](https://open.spotify.com/artist/1dV8I27eUuIDPgosmpwfEZ)
 
 [The Rebel Prospects](https://www.therebelprospects.com)
@@ -319,7 +349,9 @@ The Will Be Gones
 
 [TJ Webb](https://tjwebb.bandcamp.com)
 
-T﻿om Roach
+[T﻿om Richards](https://www.insoundmusic.com/)
+
+[T﻿om Roach](https://www.instagram.com/tomroach/?hl=en)
 
 [T﻿ony D](https://www.tonyguitarro.com/)
 
@@ -335,11 +367,13 @@ United Way
 
 Vlad King
 
+[W﻿ashing Machine](https://www.instagram.com/washingmachineband/)
+
 [Wayne Nicholson](https://open.spotify.com/artist/45lzf4JRRtH1yE5ITdjK83)
 
 [Wildcat](https://wildcat-pei.bandcamp.com)
 
-Willie Stratton
+[Willie Stratton](https://williestratton.com/)
 
 [Willem Paynter](https://willempaynter.bandcamp.com/music)
 
@@ -352,6 +386,8 @@ Wolfcastle
 Worlds Away
 
 [Wrong Planet Band](https://www.facebook.com/WrongPlanetBand/)
+
+W﻿u-Tang Killa Beez
 
 [Yellow Jacket Avenger](https://newscotlandrecords.bandcamp.com/album/yellow-jacket-avenger-7-single)
 
