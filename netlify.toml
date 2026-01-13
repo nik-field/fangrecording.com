@@ -1,4 +1,4 @@
 # netlify.toml
 [build.environment]
   HUGO_VERSION = "0.115.2"
-  NODE_VERSION = "25.0.0"
+  NODE_VERSION = "22.0.0"
