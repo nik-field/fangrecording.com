@@ -6,6 +6,18 @@ enableInlineShortcodes = true
 pluralizelisttitles = false
 
 [[menu.main]]
+    url = "about/"
+    name = "About"
+    weight = 4
+[[menu.main]]
+    url = "clients/"
+    name = "Clients"
+    weight = 4
+[[menu.main]]
+    url = "gear/"
+    name = "Gear"
+    weight = 4
+[[menu.main]]
     url = "mailto:fangrecording@gmail.com"
     name = "Contact"
     weight = 4

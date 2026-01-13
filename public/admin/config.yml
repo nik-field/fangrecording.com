@@ -30,3 +30,15 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Content", name: "body", widget: "markdown" }
+  - label: "Calendar"
+    name: "calendar"
+    folder: "/content/calendar"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "iCal Url",
+          name: "iframe_url",
+          widget: "string",
+          description: "Right click (or OPTION-click) a public calendar in Apple's Calendar app and select 'Copy URL to Clipboard', paste the URL in this field and replace 'webcal://' with 'https://'",
+        }
+      - { label: "Content", name: "body", widget: "markdown" }
