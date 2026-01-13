@@ -6,15 +6,15 @@ enableInlineShortcodes = true
 pluralizelisttitles = false
 
 [[menu.main]]
-    url = "about/"
+    pageRef = "/about"
     name = "About"
     weight = 1
 [[menu.main]]
-    url = "clients/"
+    pageRef = "/clients"
     name = "Clients"
     weight = 2
 [[menu.main]]
-    url = "gear/"
+    pageRef = "/gear"
     name = "Gear"
     weight = 3
 [[menu.main]]
