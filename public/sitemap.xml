@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fangrecording.com/gear/console/</loc>
+    <loc>http://localhost:1313/gear/console/</loc>
   </url><url>
-    <loc>https://fangrecording.com/calendar/</loc>
+    <loc>http://localhost:1313/calendar/</loc>
   </url><url>
-    <loc>https://fangrecording.com/gear/recorders_and_software/</loc>
+    <loc>http://localhost:1313/gear/recorders_and_software/</loc>
   </url><url>
-    <loc>https://fangrecording.com/gear/monitoring/</loc>
+    <loc>http://localhost:1313/gear/monitoring/</loc>
   </url><url>
-    <loc>https://fangrecording.com/gear/microphones/</loc>
+    <loc>http://localhost:1313/gear/microphones/</loc>
   </url><url>
-    <loc>https://fangrecording.com/gear/preamps_compressors_eq_di/</loc>
+    <loc>http://localhost:1313/gear/preamps_compressors_eq_di/</loc>
   </url><url>
-    <loc>https://fangrecording.com/gear/effects/</loc>
+    <loc>http://localhost:1313/gear/effects/</loc>
   </url><url>
-    <loc>https://fangrecording.com/gear/guitars_and_basses/</loc>
+    <loc>http://localhost:1313/gear/guitars_and_basses/</loc>
   </url><url>
-    <loc>https://fangrecording.com/gear/drums/</loc>
+    <loc>http://localhost:1313/gear/drums/</loc>
   </url><url>
-    <loc>https://fangrecording.com/gear/amplifiers/</loc>
+    <loc>http://localhost:1313/gear/amplifiers/</loc>
   </url><url>
-    <loc>https://fangrecording.com/gear/keyboards/</loc>
+    <loc>http://localhost:1313/gear/keyboards/</loc>
   </url><url>
-    <loc>https://fangrecording.com/gear/miscellaneous/</loc>
+    <loc>http://localhost:1313/gear/miscellaneous/</loc>
   </url><url>
-    <loc>https://fangrecording.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://fangrecording.com/about/content/</loc>
+    <loc>http://localhost:1313/about/content/</loc>
   </url><url>
-    <loc>https://fangrecording.com/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://fangrecording.com/gallery/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
   </url><url>
-    <loc>https://fangrecording.com/clients/info/</loc>
+    <loc>http://localhost:1313/clients/info/</loc>
   </url><url>
-    <loc>https://fangrecording.com/clients/clientlist/</loc>
+    <loc>http://localhost:1313/clients/clientlist/</loc>
   </url><url>
-    <loc>https://fangrecording.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
