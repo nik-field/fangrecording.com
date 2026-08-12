@@ -303,8 +303,6 @@ Scrapes
 
 [Sister Swire/](https://open.spotify.com/artist/27vyYOKJS0IfGNrLJGxgFY) [Sarah Swire](https://www.youtube.com/watch?v=Qj9yPJXg_5k)
 
-
-
 [Skydiggers](https://skydiggers.com)
 
 S﻿ly-Fi
@@ -383,9 +381,7 @@ Vlad King
 
 [Willem Paynter](https://willempaynter.bandcamp.com/music)
 
-[W﻿indow Inn](https://www.patreon.com/thewindowinn)
-
-W﻿indow Inn Wednesday
+[The W﻿indow Inn ](https://thewindowinn.substack.com/s/fang)
 
 Wolfcastle
 
