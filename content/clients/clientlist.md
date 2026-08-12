@@ -27,6 +27,8 @@ type: clients
 
 [Ally Fiola](https://AllyFiola.com)
 
+[Alexander Gallant](https://alexandergallant.com/#music)
+
 [A﻿lex MacNeil](https://www.instagram.com/alexmacneilsongs/)
 
 [Ana Egge](https://youtu.be/NHvTcYohEIM)
@@ -299,7 +301,9 @@ Scrapes
 
 [Shotgun Jimmie](https://shotgunjimmie.bandcamp.com/album/field-of-trampolines)
 
-[Sister Swire](https://open.spotify.com/artist/27vyYOKJS0IfGNrLJGxgFY)
+[Sister Swire/](https://open.spotify.com/artist/27vyYOKJS0IfGNrLJGxgFY) [Sarah Swire](https://www.youtube.com/watch?v=Qj9yPJXg_5k)
+
+
 
 [Skydiggers](https://skydiggers.com)
 
