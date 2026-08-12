@@ -8,8 +8,8 @@ weight: 6
 * E﻿MT 140 - stereo plate reverb (solid state)
 * Orban Stereo spring reverb
 * Fulltone tube tape echo
-* Dynacord tape echo
 * Electro-harmonix Memory Man analog delay pedal
 * DeltaLab Effectron Jr – delay/flanger
 * Q﻿uadraverb
 * R﻿oland RE-301 Chorus Echo
+* Mutron Phasor II Pedal
