@@ -203,6 +203,8 @@ K﻿inetic 9
 
 [Les Moontunes](https://lesmoontunes.bandcamp.com)
 
+[Leeroy Stagger](https://leeroystagger.bandcamp.com/album/pilgrimage)
+
 [Liam Corcoran](https://liamcorcoran1.bandcamp.com/album/nevahland)
 
 [Lisa MacDougall](https://open.spotify.com/artist/7FyfUcQ8qQU35FyfUNzere)
