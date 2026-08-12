@@ -5,6 +5,7 @@ type: gear
 weight: 8
 ---
 * 1960s Ludwig sparkle blue kit (20”, 15”, 13”)
+* 1970s black Ludwig Vistalite kit 
 * 26” metal Ludwig marching kick drum
 * 1960s deep Ludwig Supraphonic metal snare
 * 1950s WFL wooden snare
