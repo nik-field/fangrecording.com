@@ -17,10 +17,7 @@ weight: 7
 * 1965 Fender VII 12 string electric (Stairway To Heaven)
 * 2007 Munro electric tenor guitar
 * MSA 12 string pedal steel guitar
-*
-
-**ELECTRIC BASS GUITARS**
-
+* **ELECTRIC BASS GUITARS**
 * 1975 Fender Precision bass
 * 1970s Ibanez bass (Gibson EBO copy)
 * 1960’s Harmony H22 hollow body bass
@@ -34,7 +31,6 @@ weight: 7
 * 2007 Alabama mandola
 * 1930s Regal acoustic tenor guitar
 * 1930's Ward (Gibson) mandolin
-* 1920s Bruno tiple guitar
 * Donmo Galvo resonator guitar
 * E﻿spana Nylon string guitar
 * Greek fibreglass bouzouki
