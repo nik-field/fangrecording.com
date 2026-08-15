@@ -24,7 +24,7 @@ weight: 10
 
 • Nord Stage 3 electric piano
 
-• MicroKorg synth (vintage)
+• MicroKorg synth
 
 • T﻿hird Man Records Septavox synth
 
