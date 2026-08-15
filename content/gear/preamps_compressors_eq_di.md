@@ -78,6 +78,8 @@ weight: 5
 
 • Summit MPC-100A
 
+• Alesis 3630 Dual Comp / Limiter
+
 • ART Pro VLA II Dual Channel
 
 • FMR RNLA Levelling Amplifier 
