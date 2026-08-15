@@ -6,7 +6,7 @@ weight: 5
 ---
 **Preamps / Channel Strip Preamps**
 
-* Rupert Neve 5032 Console Preamp × 16
+* Rupert Neve 5032 Console Pre × 16
 * Universal Audio 610 × 2
 * Summit MPC-100A
 * Electrodyne 501
