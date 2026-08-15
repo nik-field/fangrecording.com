@@ -72,6 +72,7 @@ weight: 4
 
 • AKG D112
 
+\
 **Boundary / PZM**
 
 • Realistic PZM boundary electret condenser
