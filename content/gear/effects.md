@@ -4,12 +4,36 @@ draft: false
 type: gear
 weight: 6
 ---
-* EMT 240 – stereo plate “gold foil” reverb (solid state)
-* E﻿MT 140 - stereo plate reverb (solid state)
-* Orban Stereo spring reverb
-* Fulltone tube tape echo
-* Electro-harmonix Memory Man analog delay pedal
-* DeltaLab Effectron Jr – delay/flanger
-* Q﻿uadraverb
-* R﻿oland RE-301 Chorus Echo
-* Mutron Phasor II Pedal
+E﻿MT 140 stereo plate reverb (solid state)
+
+
+
+EMT 240 stereo plate “gold foil” reverb (solid state)
+
+
+
+Orban 111b stereo spring reverb
+
+
+
+Fulltone tube tape echo
+
+
+
+Electro-harmonix Deluxe Memory Man analog delay
+
+
+
+DeltaLab Effectron Jr. delay/flanger
+
+
+
+Alesis Q﻿uadraverb Multi effects unit
+
+
+
+R﻿oland RE-301 Chorus Echo (vintage)
+
+
+
+Mutron Phasor II Pedal (vintage)
