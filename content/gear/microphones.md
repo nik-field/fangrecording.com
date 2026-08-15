@@ -39,7 +39,7 @@ weight: 4
 
 • Bang & Olufsen BM-5 stereo ribbon (vintage)
 
-• Royer 122V active ribbon 
+1. • Royer r-122 active ribbon 
 
 • Beyerdynamic m160 ribbon
 
