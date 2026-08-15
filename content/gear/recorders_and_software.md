@@ -1,5 +1,5 @@
 ---
-title: Recorders and Software
+title: Recorders & Software
 draft: false
 type: gear
 weight: 2
