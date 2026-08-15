@@ -4,11 +4,7 @@ draft: false
 type: gear
 weight: 1
 ---
-
-
-Rupert Neve Designs 5088 Discrete Recording / Mixing Console - 32 Channel
-
-
+**Rupert Neve Designs 5088 Discrete Recording / Mixing Console - 32 Channel**
 
 * 16 Channel Penthouse equipped with 16 x 5032-V Preamp / EQ modules
 * 2 Channel Portico 5043-V Dual Compressor / Limiter
