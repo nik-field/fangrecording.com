@@ -4,28 +4,55 @@ draft: false
 type: gear
 weight: 5
 ---
-* 16 Rupert Neve Designs 5032 mic pre/eqs
-* C﻿handler TG Microphone Cassette Channel Strip
-* Helios 500 series mic pre/ EQ
-* Electrodyne 501 mic pre/ DI
-* Audioscape V-Comp compressor
-* SSL XL channel strip – mic pre/gate/compressor
-* Universal Audio 6176 – tube mic pre/ compressor
-* Universal Audio LA 610 – tube mic pre/ compressor
-* Summit DCL 200 – stereo tube compressor
-* Altec 1567 Tube mixer/ mic pre
-* Summit MPC 100 – tube mic pre/ compressor
-* API 2500 – stereo buss compressor
-* SSL XR626 Stereo Buss Compressor 
-* Rupert Neve Designs 5043 - stereo compressor
-* Shadow Hills 500 series mono Optograph compressor
-* Two Q2 Audio F765 500 Series "Compex" compressor/limiters
-* Anamod AM660 Limiter (Fairchild 660 copy)
-* ART Pro VLA stereo compressor
-* 2 JLM Audio PEQ500 EQ’s (Pultec –esque)
-* Electrodyne 511 EQ
-*  Avalon U-5 direct box
-* 2﻿ LR Baggs DIs
-* UREI stereo EQ
-* Radial SGI guitar interface
-* Radial EXTC – effects send and return
+**Preamps / Channel Strip Preamps**
+
+* Rupert Neve 5032 Console Preamp × 16
+* Universal Audio 610 × 2
+* Summit MPC-100A
+* Electrodyne 501
+* Helios Type 69 500
+* Chandler TG2 Microphone Cassette Preamp
+* SSL 9000 Superanalogue Channel Strip Preamp
+* TL Audio 5013 2-channel
+
+**EQs**
+
+* Rupert Neve 5032 Console EQ × 16
+* Universal Audio 610 × 2
+* SSL Xr625 × 3
+* SSL XLogic Superanalogue Channel Strip EQ
+* Chandler TG Curve Bender 
+* Kush UBK 500 series × 2
+* JLM Audio PEQ 500 × 2
+* UREI 546 stereo EQ — normally strapped to the EMT 140 reverb unit 
+* Quad Eight 312 EQ Module x 2
+* Helios Type 69 500 Series Strip EQ
+* Electrodyne 511 
+* TLA Audio 5013 2-channel EQ
+
+**Compressors**
+
+* Rupert Neve 5043 Dual Channel
+* Universal Audio 6176 FET 
+* Universal Audio LA-610 Opto
+* API 2500 Stereo Compressor
+* SSL Xr626 Stereo Bus Compressor
+* SSL Xr618 Comp/Exp/Gate
+* SSL XLogic Channel Strip Comp/Exp/Gate
+* Chandler TG1 Opto Comp
+* Shadow Hills Mono Optograph
+* ADR F765 × 2
+* Anamod Am660 (Fairchild Clone)
+* AudioScape V-Comp Variable Gain
+* Summit DCL-200 Dual Channel
+* Summit MPC-100A
+* ART Pro VLA II Dual Channel
+* FMR RNLA Levelling Amplifier 
+
+**D.I.**
+
+* Avalon U5 Direct Box / Preamplifier
+* Radial JDI Passive Direct Box
+* L.R. Baggs Para Acoustic DI x 2
+* Radial SGI Guitar Interface 
+* Radial EXTC - Effects Send / Returns
