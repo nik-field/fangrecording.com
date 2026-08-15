@@ -14,5 +14,4 @@ weight: 1
  \
 - 4 x 561 Group Channel Module with 8 group sends, effects input trim potentiometer, AUX master output controls, group insert selectors, and 16 input summing capabilities. Sent to 8 mono or 4 stereo 100mm output faders5088 Master Section with Talkback, Stereo Insert selector, Oscillator, Solo / AUX monitoring, 3-way speaker selection, 4-way monitor selection and Mono / AUX fold down selectors. Sent to 1 x Stereo 100mm output fader\
 \
-
-* 2 x Producers Desk Sidecar with 7u and 9u Penthouse racks for outboard modules / patch bay
+- 2 x Producers Desk Sidecar with 7u and 9u Penthouse racks for outboard modules / patch bay
