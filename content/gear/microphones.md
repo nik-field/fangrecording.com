@@ -30,46 +30,48 @@ weight: 4
 
 • Josephson C42 small diaphragm condenser x 2
 
-Audio Technica ATM 31 small diaphragm condenser
+• Audio Technica ATM 31 small diaphragm condenser
 
-Audio Technica AT4041 small diaphragm condenser
+• Audio Technica AT4041 small diaphragm condenser
 
-Ribbon 
+\
+**Ribbon** 
 
-Bang & Olufsen BM-5 stereo ribbon (vintage)
+• Bang & Olufsen BM-5 stereo ribbon (vintage)
 
-Royer 122V active ribbon 
+• Royer 122V active ribbon 
 
-Beyerdynamic m160 ribbon
+• Beyerdynamic m160 ribbon
 
-Beyerdynamic m260 ribbon
+• Beyerdynamic m260 ribbon
 
-Cloud JRS-34A ribbon
+• Cloud JRS-34A ribbon
 
-Cascade Fathead ribbon
+• Cascade Fathead ribbon
 
-Cascade Fathead II ribbon x 2
+• Cascade Fathead II ribbon x 2
 
-Dynamic 
+\
+**Dynamic** 
 
-E﻿lectrovoice RE20 x 2 
+• E﻿lectrovoice RE20 x 2 
 
-Sennheiser 421 x 2
+• Sennheiser 421 x 2
 
-Shure SM7b
+• Shure SM7b
 
-Shure SM 57 x 4
+• Shure SM 57 x 4
 
-Shure SM 58 x 2
+• Shure SM 58 x 2
 
-Sennheiser e835
+• Sennheiser e835
 
-Sennheiser e902
+• Sennheiser e902
 
-Sennheiser e602
+• Sennheiser e602
 
-AKG D112
+• AKG D112
 
-Boundary / PZM
+**Boundary / PZM**
 
-Realistic PZM boundary electret condenser
+• Realistic PZM boundary electret condenser
