@@ -4,33 +4,31 @@ draft: false
 type: gear
 weight: 4
 ---
-Tube / Solid State Condensers
+**Tube / Solid State Condensers**
 
 • N﻿eumann U67 tube condenser (vintage)
 
-Neumann M49 tube condenser (vintage)
+• Neumann M49 tube condenser (vintage)
 
-Telefunken U47 tube condenser (vintage)
+• Telefunken U47 tube condenser (vintage)
 
-T﻿elefunken KM56 tube condenser (vintage)
+• T﻿elefunken KM56 tube condenser (vintage)
 
-S﻿ony C-37A tube condenser (vintage)
+• S﻿ony C-37A tube condenser (vintage)
 
-S﻿oundelux U95 tube condenser (modded with vintage K87 capsule)
+• S﻿oundelux U95 tube condenser (modded with vintage K87 capsule)
 
-P﻿eluso P49 large diaphragm tube condenser
+• P﻿eluso P49 large diaphragm tube condenser
 
-Neumann TLM 103 large diaphragm condenser
+• Neumann TLM 103 large diaphragm condenser
 
-Mojave MA 301 large diaphragm FET 
+• Mojave MA 301 large diaphragm FET condenser
 
-condenser
+• Neumann KM 184 small diaphragm condenser 
 
-Neumann KM 184 small diaphragm condenser 
+• Neumann KM 105 small diaphragm condenser x 2
 
-Neumann KM 105 small diaphragm condenser x 2
-
-Josephson C42 small diaphragm condenser x 2
+• Josephson C42 small diaphragm condenser x 2
 
 Audio Technica ATM 31 small diaphragm condenser
 
