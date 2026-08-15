@@ -14,14 +14,12 @@ weight: 2
 
 • Tascam 244 - 4 track cassette recorder
 
-• 32 channels of Universal Audio Apollo digital converters
+• 2 x Universal Audio Apollo 16 digital converters
 
 • Endless Analog CLASP 16 (integrates Pro Tools and 2” analog tape seamlessly)
 
 • Pro Tools 2021.1
 
 • L﻿ogic Pro X
-
-• Mac Mini computer with SSD Drive
 
 • R﻿oland mio MIDI interface
