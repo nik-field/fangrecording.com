@@ -18,7 +18,7 @@ weight: 10
 
 • Wurlitzer 200 (vintage) (red!)
 
-• Hohner Clavinet/Pianet Duo
+• Hohner Clavinet / Pianet Duo
 
 • Yahama Electone D3E Organ with drum machine
 
