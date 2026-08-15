@@ -4,7 +4,7 @@ draft: false
 type: gear
 weight: 2
 ---
-• Studer A-80 2″ 16 track (15 & 30 ips)
+• Studer A-80 2” 16 track (15 & 30 ips)
 
 • S﻿tuder A-80 ½" two track (15 & 30 ips)
 
@@ -16,7 +16,7 @@ weight: 2
 
 • 32 channels of Universal Audio Apollo digital converters
 
-• Endless Analog CLASP 16 (integrates Pro Tools and 2″ analog tape seamlessly)
+• Endless Analog CLASP 16 (integrates Pro Tools and 2” analog tape seamlessly)
 
 • Pro Tools 2021.1
 
