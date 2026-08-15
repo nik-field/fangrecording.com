@@ -56,40 +56,40 @@ weight: 5
 
 • Universal Audio LA-610 Opto
 
-API 2500 Stereo Compressor
+• API 2500 Stereo Compressor
 
-SSL Xr626 Stereo Bus Compressor
+• SSL Xr626 Stereo Bus Compressor
 
-SSL Xr618 Comp/Exp/Gate
+• SSL Xr618 Comp/Exp/Gate
 
-SSL XLogic Channel Strip Comp/Exp/Gate
+• SSL XLogic Channel Strip Comp/Exp/Gate
 
-Chandler TG1 Opto Comp
+• Chandler TG1 Opto Comp
 
-Shadow Hills Mono Optograph
+• Shadow Hills Mono Optograph
 
-ADR F765 × 2
+• ADR F765 (Compex) × 2
 
-Anamod Am660 (Fairchild Clone)
+• Anamod Am660 (Fairchild Clone)
 
-AudioScape V-Comp Variable Gain
+• AudioScape V-Comp Variable Gain
 
-Summit DCL-200 Dual Channel
+• Summit DCL-200 Dual Channel
 
-Summit MPC-100A
+• Summit MPC-100A
 
-ART Pro VLA II Dual Channel
+• ART Pro VLA II Dual Channel
 
-FMR RNLA Levelling Amplifier 
+• FMR RNLA Levelling Amplifier 
 
-D.I.
+**D.I.**
 
-Avalon U5 Direct Box / Preamplifier
+• Avalon U5 Direct Box / Preamplifier
 
-Radial JDI Passive Direct Box
+• Radial JDI Passive Direct Box
 
-L.R. Baggs Para Acoustic DI x 2
+• L.R. Baggs Para Acoustic DI x 2
 
-Radial SGI Guitar Interface 
+• Radial SGI Guitar Interface 
 
-Radial EXTC - Effects Send / Returns
+• Radial EXTC - Effects Send / Returns
