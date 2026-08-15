@@ -28,8 +28,7 @@ weight: 7
 
 • MSA 12 string pedal steel guitar
 
-
-
+\
 **ELECTRIC BASS GUITARS**
 
 • 1975 Fender Precision bass
@@ -38,8 +37,7 @@ weight: 7
 
 • 1960s Harmony H22 hollow body bass
 
-
-
+\
 **ACOUSTIC INSTRUMENTS**
 
 • 1968 1265 Harmony Sovereign acoustic
