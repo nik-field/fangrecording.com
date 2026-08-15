@@ -4,7 +4,7 @@ draft: false
 type: gear
 weight: 3
 ---
-• Klein and Hummel 0-300 Pair
+• Klein and Hummel O 300 Pair
 
 • Dynaudio BM-5A Pair
 
