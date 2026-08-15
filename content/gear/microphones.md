@@ -18,7 +18,7 @@ weight: 4
 
 • S﻿oundelux U95 tube condenser (modded with vintage K87 capsule)
 
-• P﻿eluso P49 large diaphragm tube condenser
+• P﻿eluso P49 tube condenser
 
 • Neumann TLM 103 large diaphragm condenser
 
@@ -40,8 +40,6 @@ weight: 4
 • Bang & Olufsen BM-5 stereo ribbon (vintage)
 
 • Royer r-122 active ribbon 
-
-
 
 • Beyerdynamic m160 ribbon
 
