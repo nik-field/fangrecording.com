@@ -4,67 +4,57 @@ draft: false
 type: gear
 weight: 5
 ---
-Preamps / Channel Strip Preamps
+**Preamps / Channel Strip Preamps**
 
+• Rupert Neve 5032-V Console Pre × 16
 
+• Universal Audio 610 × 2
 
-Rupert Neve 5032 Console Pre × 16
+• Summit MPC-100A
 
-Universal Audio 610 × 2
+• Electrodyne 501
 
-Summit MPC-100A
+• Helios Type 69 500
 
-Electrodyne 501
+• Chandler TG2 Microphone Cassette Preamp
 
-Helios Type 69 500
+• SSL 9000 Superanalogue Channel Strip Preamp
 
-Chandler TG2 Microphone Cassette Preamp
+• TL Audio 5013 2-channel
 
-SSL 9000 Superanalogue Channel Strip Preamp
+**EQs**
 
-TL Audio 5013 2-channel
+• Rupert Neve 5032-V Console EQ × 16
 
+• Universal Audio 610 × 2
 
+• SSL Xr625 × 3
 
-EQs
+• SSL XLogic Superanalogue Channel Strip EQ
 
+• Chandler TG Curve Bender 
 
+• Kush UBK 500 series × 2
 
-Rupert Neve 5032 Console EQ × 16
+• JLM Audio PEQ 500 × 2
 
-Universal Audio 610 × 2
+• UREI 546 stereo EQ — normally strapped to the EMT 140 reverb unit 
 
-SSL Xr625 × 3
+• Quad Eight 312 EQ Module x 2
 
-SSL XLogic Superanalogue Channel Strip EQ
+• Helios Type 69 500 Series Strip EQ
 
-Chandler TG Curve Bender 
+• Electrodyne 511 
 
-Kush UBK 500 series × 2
+• TLA Audio 5013 2-channel EQ
 
-JLM Audio PEQ 500 × 2
+**Compressors**
 
-UREI 546 stereo EQ — normally strapped to the EMT 140 reverb unit 
+• Rupert Neve 5043 Dual Channel
 
-Quad Eight 312 EQ Module x 2
+• Universal Audio 6176 FET 
 
-Helios Type 69 500 Series Strip EQ
-
-Electrodyne 511 
-
-TLA Audio 5013 2-channel EQ
-
-
-
-Compressors
-
-
-
-Rupert Neve 5043 Dual Channel
-
-Universal Audio 6176 FET 
-
-Universal Audio LA-610 Opto
+• Universal Audio LA-610 Opto
 
 API 2500 Stereo Compressor
 
@@ -92,11 +82,7 @@ ART Pro VLA II Dual Channel
 
 FMR RNLA Levelling Amplifier 
 
-
-
 D.I.
-
-
 
 Avalon U5 Direct Box / Preamplifier
 
