@@ -62,7 +62,7 @@ weight: 4
 
 • Shure SM 57 x 4
 
-• Shure SM 58 x 2
+1. • Shure SM 58 x 3
 
 • Sennheiser e835
 
