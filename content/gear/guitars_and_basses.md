@@ -30,6 +30,8 @@ weight: 7
 
 
 
+
+
 **ELECTRIC BASS GUITARS**
 
 • 1975 Fender Precision bass
@@ -37,6 +39,8 @@ weight: 7
 • 1970s Ibanez bass (Gibson EBO copy)
 
 • 1960s Harmony H22 hollow body bass
+
+
 
 
 
