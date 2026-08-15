@@ -21,3 +21,5 @@ weight: 6
 • R﻿oland RE-301 Chorus Echo (vintage)
 
 • Mutron Phasor II Pedal (vintage)
+
+• Shure SC201 analog mixer
