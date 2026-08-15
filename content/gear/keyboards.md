@@ -12,7 +12,7 @@ weight: 10
 
 • 1950s Hammond M-100 Spinet Tonewheel Organ
 
-• Mellotron M4000 D (digital Mellotron)
+• Mellotron M4000 D (Digital) 
 
 • Rhodes Mark II Stage 73 key with tone control, tremolo and matching speaker cabinet (vintage)
 
