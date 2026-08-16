@@ -337,6 +337,8 @@ St. Thomas Black Youth Fellowship Choir
 
 The Hightides
 
+The Gullz
+
 The Legendary Goldblooms
 
 The Maudes
