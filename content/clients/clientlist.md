@@ -79,6 +79,8 @@ Brothers
 
 [C﻿allum Gaudet](http://instagram.com/callumgaudet)
 
+[](http://instagram.com/callumgaudet)Calm Canopy
+
 [Cameron Nickerson](https://www.cameronnickerson.com)
 
 [Cancer Bats](https://youtu.be/8GhiSFDzRb4)
@@ -313,6 +315,8 @@ Scrapes
 
 [Skydiggers](https://skydiggers.com)
 
+[](https://skydiggers.com)Sluice
+
 S﻿ly-Fi
 
 Spencer Critchley
@@ -342,6 +346,8 @@ St. Thomas Black Youth Fellowship Choir
 The Hightides
 
 The Gullz
+
+The Last Call
 
 The Legendary Goldblooms
 
