@@ -207,7 +207,9 @@ K﻿inetic 9
 
 [Leanne Hoffman](http://www.leannehoffman.com)
 
-[Lee Park](https://www.facebook.com/leepark.ca/)
+[Lee Park](https://www.facebook.com/leepark.ca/)[](https://www.facebook.com/leepark.ca/)
+
+Legendary Golden River Show Band[](https://www.facebook.com/leepark.ca/)
 
 [Les Hay Babies](http://leshaybabies.com)
 
