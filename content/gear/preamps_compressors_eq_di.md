@@ -1,5 +1,5 @@
 ---
-title: Preamps | Compressors | EQ | D.I.
+title: Preamps | EQ | Compressors | D.I.
 draft: false
 type: gear
 weight: 5
