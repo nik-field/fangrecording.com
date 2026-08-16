@@ -56,7 +56,7 @@ weight: 4
 
 • E﻿lectrovoice RE20 x 2 
 
-• Sennheiser 421 x 2
+• Sennheiser MD 421 x 2
 
 • Shure SM7b
 
