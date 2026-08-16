@@ -259,6 +259,8 @@ Ocean Floor Recording
 
 Open Borders
 
+ParaNoize 
+
 [Piner](https://piner9.bandcamp.com)
 
 P﻿ete Johnson
