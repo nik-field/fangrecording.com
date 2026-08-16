@@ -39,6 +39,8 @@ type: clients
 
 [Anne Janelle](https://www.annejanelle.com)
 
+[](https://www.annejanelle.com)Apryll Aileen
+
 [Aquakultre](https://www.facebook.com/aquakultremusic)
 
 A﻿rt Boumann
@@ -286,6 +288,8 @@ P﻿ete Johnson
 [Quiet Parade](https://quietparade.bandcamp.com)
 
 [Rain Over St. Ambrose](http://rainoverstambrose.com)
+
+Rankin McGinnis
 
 [](http://rainoverstambrose.com)Ras Laxx
 
