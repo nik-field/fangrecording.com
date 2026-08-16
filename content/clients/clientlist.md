@@ -157,6 +157,8 @@ Jacob Ballard
 
 [J﻿amie Comeau & The Crooked Teeth](https://thecrookedteeth.bandcamp.com/)
 
+Jane Baker[](https://thecrookedteeth.bandcamp.com/)
+
 [J﻿eremy Dutcher](https://jeremydutcher.com/)
 
 [Jeremy Finney](https://jeremyfinneymusic.com)
@@ -278,6 +280,8 @@ P﻿ete Johnson
 [Quiet Parade](https://quietparade.bandcamp.com)
 
 [Rain Over St. Ambrose](http://rainoverstambrose.com)
+
+[](http://rainoverstambrose.com)Ras Laxx
 
 [Regal Beagle Band](https://theregalbeagleband.bandcamp.com)
 
