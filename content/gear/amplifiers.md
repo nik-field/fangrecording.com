@@ -12,7 +12,7 @@ weight: 9
 
 • Marshall JCM800 2203 amp head
 
-• Traynor "The Hermit" tube head and cabinet - 40 watts of the 90s
+• Traynor "The Hermit" tube head - 40 watts of the 90s!  With 1x12 Eminence Legend V128 cabinet
 
 • 2002 Fender Pro Junior III
 
@@ -20,7 +20,7 @@ weight: 9
 
 • 1960s Sonola (Guild) stereo combo amp (2×35 watts) with tremolo
 
-• 1960s Beltone 25 watt tube amp with trem/reverb and 2×12 cabinet
+• 1960s Beltone 25 watt De Luxe tube amp with trem/reverb and 2×12 40 watt OEM cabinet
 
 • 1960s Beltone small tube amp with tremolo
 
