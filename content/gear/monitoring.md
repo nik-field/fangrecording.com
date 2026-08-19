@@ -14,4 +14,4 @@ weight: 3
 
 • Furman HDS-16 headphone amp with 8 Furman HRM personal headphone mixers
 
-• Selection of headphones incl. Audio-Technica, Shure and Modified 3M
+• Selection of headphones incl. Audio-Technica, Shure and GK Music
