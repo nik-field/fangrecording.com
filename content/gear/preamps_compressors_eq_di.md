@@ -40,7 +40,7 @@ weight: 5
 
 • UREI 546 stereo EQ — normally strapped to the EMT 140 reverb unit 
 
-• Quad Eight 312 EQ Module x 2
+• Quad Eight MM-310 EQ Module x 2
 
 • Helios Type 69 500 Series Strip EQ
 
