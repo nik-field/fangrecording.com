@@ -94,6 +94,16 @@ weight: 5
 
 • Radial JDI Passive Direct Box
 
+• SSL Superananalogue Channel 9k Input
+
+• Electrodyne 501 Preamp DI
+
+• Chandler TG Microphone Cassette
+
+• Universal Audio 610 Hi-z x 2
+
+• Summit MPC-100a Tube Preamp / DI
+
 • TL Audio 5013 2-channel 
 
 • L.R. Baggs Para Acoustic DI x 2
