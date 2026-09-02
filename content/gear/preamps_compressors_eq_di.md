@@ -46,7 +46,7 @@ weight: 5
 
 • Electrodyne 511 
 
-• TLA Audio 5013 2-channel EQ
+• TL Audio 5013 2-channel EQ
 
 **Compressors**
 
@@ -60,7 +60,7 @@ weight: 5
 
 • SSL Xr626 Stereo Bus Compressor
 
-• SSL Xr618 Comp/Exp/Gate
+• SSL Xr618 Comp/Exp/Gate x 3
 
 • SSL XLogic Channel Strip Comp/Exp/Gate
 
@@ -78,17 +78,23 @@ weight: 5
 
 • Summit MPC-100A
 
+• Dbx 161vu VCA Compressor 
+
 • Alesis 3630 Dual Comp / Limiter
 
 • ART Pro VLA II Dual Channel
 
-• FMR RNLA Levelling Amplifier 
+• FMR PBC-6a Compression Amplifier
+
+• FMR RNLA 7239 Levelling Amplifier x 3
 
 **D.I.**
 
 • Avalon U5 Direct Box / Preamplifier
 
 • Radial JDI Passive Direct Box
+
+• TL Audio 5013 2-channel 
 
 • L.R. Baggs Para Acoustic DI x 2
 
