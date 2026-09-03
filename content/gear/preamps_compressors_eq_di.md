@@ -6,7 +6,7 @@ weight: 5
 ---
 **Preamps / Channel Strip Preamps**
 
-• Rupert Neve 5032-V Console Pre × 16
+• Rupert Neve 5032-V Console Mic Pre × 16
 
 • Universal Audio 610 × 2
 
