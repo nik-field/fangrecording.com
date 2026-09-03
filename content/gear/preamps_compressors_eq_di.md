@@ -86,7 +86,7 @@ weight: 5
 
 • FMR PBC-6a Compression Amplifier
 
-• FMR RNLA 7239 Levelling Amplifier x 3
+• FMR RNLA7239 Levelling Amplifier x 3
 
 **D.I.**
 
