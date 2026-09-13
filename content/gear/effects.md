@@ -4,7 +4,7 @@ draft: false
 type: gear
 weight: 6
 ---
-• E﻿MT 140 stereo plate reverb (solid state)
+• E﻿MT 140 stereo plate reverb w/162 Amplifier
 
 • EMT 240 stereo plate “gold foil” reverb (solid state)
 
