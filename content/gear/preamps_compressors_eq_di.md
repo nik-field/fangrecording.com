@@ -78,7 +78,7 @@ weight: 5
 
 • Summit MPC-100A
 
-• Dbx 161vu VCA Compressor 
+• Dbx 161 VU VCA Compressor 
 
 • Alesis 3630 Dual Comp / Limiter
 
