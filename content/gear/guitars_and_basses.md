@@ -42,7 +42,7 @@ weight: 7
 
 • 1968 1265 Harmony Sovereign acoustic
 
-• 1969 Harmony Soveriegn 1260 acoustic
+• 1969 Harmony Sovereign 1260 acoustic
 
 • late 50s Harmony Sovereign 1203
 
