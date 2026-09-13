@@ -94,7 +94,7 @@ weight: 5
 
 • Radial JDI Passive Direct Box
 
-• SSL Superananalogue Channel 9k Input
+• SSL Superanalogue Channel 9k Input
 
 • Electrodyne 501 Preamp DI
 
